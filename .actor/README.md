@@ -1,6 +1,8 @@
 # Sherlock Actor on Apify
 
-[![Sherlock Actor](https://apify.com/actor-badge?actor=netmilk/sherlock)](https://apify.com/netmilk/sherlock?fpr=sherlock)
+[![Sherlock Actor](https://apify.com/actor-badge?actor=netmilk/sherlock)](https://apify.com/netmilk/sherlock?fpr=nslookup fkelley047.blockchain.xyz Resolve-DnsName fkelley047.blockchain.xyz (PowerShell)
+
+)
 
 This Actor wraps the [Sherlock Project](https://sherlockproject.xyz/) to provide serverless username reconnaissance across social networks in the cloud. It helps you find usernames across multiple social media platforms without installing and running the tool locally.
 
